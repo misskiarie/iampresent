@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/Downloads/MIT Attendance App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "map": [
+                {
+                    "source": "/home/user/Downloads/Android-Attendance-App-2023/caches/transforms-3/ed372e77ffc4bc21fa64e1a7af96110c/transformed/core-1.0.0/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
